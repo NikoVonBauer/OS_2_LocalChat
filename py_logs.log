@@ -1,0 +1,9 @@
+INFO:root:Info
+WARNING:root:Warning
+ERROR:root:Error
+INFO:tornado.access:200 GET / (::1) 2.31ms
+INFO:tornado.access:101 GET /?app=index&session=NEW (::1) 1.99ms
+INFO:tornado.access:200 GET / (::1) 1.99ms
+INFO:tornado.access:101 GET /?app=index&session=NEW (::1) 1.02ms
+INFO:tornado.access:304 GET / (::1) 1.00ms
+INFO:tornado.access:101 GET /?app=index&session=NEW (::1) 2.99ms
